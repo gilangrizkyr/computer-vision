@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="color:#4B8BBE;">computer-vision</h1>
+  <h1 align="center" style="color:#4B8BBE;">COMPUTER VISION</h1>
   <p align="center"><em>Touchless Control with Hand Tracking — Turn Your Camera into a Virtual Mouse & Keyboard</em></p>
 
   <p align="center">
